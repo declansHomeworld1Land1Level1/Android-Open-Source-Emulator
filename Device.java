@@ -111,4 +111,7 @@ public class Device implements Serializable {
     public void setLastUsed(ZonedDateTime lastUsed) {
         this.lastUsed = lastUsed;
     }
+    public Screen() {
+         String ScreenFunction("screen.java")
+    }
 }
